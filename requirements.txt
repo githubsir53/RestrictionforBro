@@ -1,0 +1,9 @@
+https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+cryptg
+tgcrypto
+pyrogram
+TgCrypto
+motor
+https://github.com/Tinche/aiofiles/archive/master.zip
+dnspython
+psutil
